@@ -12,6 +12,7 @@ public class JSONParserMain {
 
     public static void main(String args[]) {
         String jsonString = "{\n" +
+
                 "    \"firstName\":\"John\",\n" +
                 "    \"lastName\":\"Smith\",\n" +
                 "    \"address\":{\n" +
